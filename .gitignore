@@ -1,0 +1,4 @@
+data/flood/FL20221019NGA_SHP/
+data/flood/flood_extent.zip
+data/osm/*.osm
+*.tif
