@@ -1,4 +1,5 @@
 # Flood Disrupted Healthcare Access, Yenagoa, Bayelsa State (2022)
+*Analysis carried out August 2025 to February 2026; code and results published September 2026.*
 
 ![Accessibility comparison](images/accessibility_comparison.png)
 
