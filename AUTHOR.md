@@ -3,7 +3,7 @@
 Goriola-Obafemi Babatunde Sukanmi 
 
 MSc Applied Mathematics and Informatics, Sfedu
-BSc Applied Geophysics, Wesley University Ondo
+BSc Geophysics, Wesley University Ondo
 
 Email: goriolaobafemi@gmail.com
 GitHub: https://github.com/Nobleteesage
